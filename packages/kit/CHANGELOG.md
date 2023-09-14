@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.25.1
+
+### Patch Changes
+
+- chore: update `undici` ([#10641](https://github.com/sveltejs/kit/pull/10641))
+
 ## 1.25.0
 
 ### Minor Changes
